@@ -1,4 +1,4 @@
-# Cloud Engineering Foundations (Interview + Job Ready)
+# Cloud Engineering Foundations 
 
 This repository is a **beginner-to-intermediate learning guide** designed to build
 strong **cloud engineering foundations using AWS**, starting from first principles
