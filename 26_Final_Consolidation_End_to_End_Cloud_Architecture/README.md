@@ -236,3 +236,13 @@ This is the **foundation required** for:
 This repository focuses on **thinking like an engineer**, not memorizing services.
 
 If you understand this chapter, you understand **cloud fundamentals properly**.
+
+
+
+## High-Level Cloud Architecture
+
+![High-Level Cloud Architecture](../assets/diagrams/01_high_level_architecture.png)
+
+This diagram shows the complete end-to-end cloud system, starting from the user
+request, passing through the load balancer and auto scaling group, and finally
+reaching storage and monitoring layers.

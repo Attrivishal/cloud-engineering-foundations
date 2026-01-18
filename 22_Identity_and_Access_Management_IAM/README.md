@@ -85,3 +85,11 @@ Why this is secure:
 ## Interview Summary
 "IAM controls access in AWS using users, roles, and policies. Humans use users,
 services use roles, and permissions are defined using least privilege policies."
+
+
+## IAM Role Access Flow
+
+![IAM Role Flow](../assets/diagrams/03_iam_role_flow.png)
+
+This diagram shows how EC2 securely accesses AWS services using IAM roles and
+temporary credentials instead of hardcoded access keys.

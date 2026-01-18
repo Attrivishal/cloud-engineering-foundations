@@ -74,3 +74,10 @@ CloudWatch observes the system but does not fix it.
 ## Interview Summary
 "CloudWatch is used to monitor AWS resources using metrics and logs, and alarms
 are configured to detect issues before they impact users."
+
+## Monitoring and Alerting Flow
+
+![CloudWatch Alarm Flow](../assets/diagrams/05_cloudwatch_alarm_flow.png)
+
+This diagram shows how metrics are collected, alarms are evaluated, and alerts
+are sent to engineers using SNS.

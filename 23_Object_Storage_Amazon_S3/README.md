@@ -86,3 +86,11 @@ Best practices:
 ## Interview Summary
 "S3 is an object storage service used to store application data, logs, and backups
 independently of EC2, ensuring durability and scalability."
+
+
+## Stateless EC2 and Data Storage
+
+![EC2 S3 Data Flow](../assets/diagrams/04_ec2_s3_data_flow.png)
+
+This diagram highlights why EC2 instances should remain stateless and why
+persistent data is stored in S3.

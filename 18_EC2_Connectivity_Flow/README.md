@@ -29,3 +29,11 @@ Layered flow from user to application
 
 ## Interview explanation
 "EC2 connectivity depends on networking, routing, security groups, and application state."
+
+
+## Public and Private Subnets
+
+![VPC Public Private Subnet](../assets/diagrams/02_vpc_public_private.png)
+
+This diagram explains how public subnets expose only the load balancer to the
+internet, while EC2 instances remain safely isolated in private subnets.
