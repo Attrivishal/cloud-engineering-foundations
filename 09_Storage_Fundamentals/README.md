@@ -8,7 +8,7 @@ Stores OS, applications, logs, and data.
 
 ## Stop vs Terminate
 - Stop: data safe
-- Terminate: root volume deleted
+- Terminate: root volume deleted permanently
 
 ## Real-world analogy
 EBS is like a hard disk attached to a server.
