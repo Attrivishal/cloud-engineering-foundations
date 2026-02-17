@@ -20,6 +20,5 @@ to different tenants.
 Hardware  
 → Hypervisor  
 → VM1 | VM2 | VM3  
-
 ## Interview explanation
 "A hypervisor manages hardware resources and allows multiple VMs to run on one machine."
